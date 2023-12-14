@@ -9,7 +9,9 @@ Note that you may have multiple coins of the same value.
 Example 1:
 
 Input: coins = [1,3]
+
 Output: 2
+
 Explanation: You can make the following values:
 - 0: take []
 - 1: take [1]
@@ -17,7 +19,9 @@ Explanation: You can make the following values:
   Example 2:
 
 Input: coins = [1,1,1,4]
+
 Output: 8
+
 Explanation: You can make the following values:
 - 0: take []
 - 1: take [1]
